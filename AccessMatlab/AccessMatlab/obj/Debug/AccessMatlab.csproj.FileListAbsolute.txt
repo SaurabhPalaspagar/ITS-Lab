@@ -3,3 +3,8 @@ c:\users\saura\onedrive\documents\visual studio 2015\Projects\AccessMatlab\Acces
 c:\users\saura\onedrive\documents\visual studio 2015\Projects\AccessMatlab\AccessMatlab\obj\Debug\AccessMatlab.csprojResolveAssemblyReference.cache
 c:\users\saura\onedrive\documents\visual studio 2015\Projects\AccessMatlab\AccessMatlab\obj\Debug\AccessMatlab.dll
 c:\users\saura\onedrive\documents\visual studio 2015\Projects\AccessMatlab\AccessMatlab\obj\Debug\AccessMatlab.pdb
+G:\GitHub\ITS-Lab\AccessMatlab\AccessMatlab\bin\Debug\AccessMatlab.dll
+G:\GitHub\ITS-Lab\AccessMatlab\AccessMatlab\bin\Debug\AccessMatlab.pdb
+G:\GitHub\ITS-Lab\AccessMatlab\AccessMatlab\obj\Debug\AccessMatlab.csprojResolveAssemblyReference.cache
+G:\GitHub\ITS-Lab\AccessMatlab\AccessMatlab\obj\Debug\AccessMatlab.dll
+G:\GitHub\ITS-Lab\AccessMatlab\AccessMatlab\obj\Debug\AccessMatlab.pdb
